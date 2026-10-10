@@ -23,8 +23,8 @@
 
 | Type | To Do | In Progress | Done |
 |---|---:|---:|---:|
-| Story | 0 | 0 | 1 |
-| Task | 0 | 0 | 6 |
+| Story | 0 | 0 | 6 |
+| Task | 0 | 0 | 1 |
 | Bug | 0 | 0 | 0 |
 
 ---
@@ -44,7 +44,7 @@
 |---|---:|
 | Total story points committed | 21 |
 | Total story points completed | 21 |
-| Completion % | X% |
+| Completion % | 100% |
 
 ---
 
