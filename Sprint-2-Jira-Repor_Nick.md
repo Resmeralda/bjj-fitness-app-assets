@@ -1,10 +1,10 @@
-# Sprint 1 Jira Report
+# Sprint 2 Jira Report
 
 ## Jira Project
 
 **Project:** [BJJ App] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1?filter=&groupBy=none
 
-**Sprint:** Sprint 1
+**Sprint:** Sprint 2
 
 ---
 
