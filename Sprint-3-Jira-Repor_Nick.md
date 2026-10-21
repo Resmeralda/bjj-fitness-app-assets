@@ -1,10 +1,11 @@
-# Sprint 2 Jira Report
+# Sprint 3 Jira Report
 
 ## Jira Project
 
 **Project:** [BJJ App] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1?filter=&groupBy=none
 
-**Sprint:** Sprint 2
+
+**Sprint:** Sprint 3
 
 ---
 
@@ -12,8 +13,8 @@
 
 | Metric | Count |
 |---|---:|
-| Issues committed at sprint start | 7 |
-| Issues completed | 7 |
+| Issues committed at sprint start | 0 |
+| Issues completed | 0 |
 | Issues not completed | 0 |
 | Issues added mid-sprint | 0 |
 
@@ -24,7 +25,7 @@
 | Type | To Do | In Progress | Done |
 |---|---:|---:|---:|
 | Story | 0 | 0 | 6 |
-| Task | 0 | 0 | 1 |
+| Task | 0 | 0 | 0 |
 | Bug | 0 | 0 | 0 |
 
 ---
@@ -33,8 +34,8 @@
 
 | Student | Issues Assigned | Issues Completed |
 |---|---:|---:|
-| Nick | 3 | 4 |
-| Maria | 4 | 4 |
+| Nick | 4 | 4 |
+| Maria | 2 | 1 |
 
 ---
 
@@ -42,9 +43,9 @@
 
 | Metric | Value |
 |---|---:|
-| Total story points committed | 21 |
-| Total story points completed | 21 |
-| Completion % | 100% |
+| Total story points committed | 14 |
+| Total story points completed | 12 |
+| Completion % | 85% |
 
 ---
 
@@ -68,4 +69,4 @@
 
 - [Sprint Report] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1/reports
 - [Backlog] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1/backlog
-- [Board filtered to Sprint 1] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1?filter=Sprint%20%3D%201&groupBy=none
+- [Board filtered to Sprint 3] - https://bjjlog.atlassian.net/jira/software/projects/BJJ/boards/1?filter=&groupBy=none
