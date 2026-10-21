@@ -13,8 +13,8 @@
 
 | Metric | Count |
 |---|---:|
-| Issues committed at sprint start | 0 |
-| Issues completed | 0 |
+| Issues committed at sprint start | 6 |
+| Issues completed | 6 |
 | Issues not completed | 0 |
 | Issues added mid-sprint | 0 |
 
@@ -35,7 +35,7 @@
 | Student | Issues Assigned | Issues Completed |
 |---|---:|---:|
 | Nick | 4 | 4 |
-| Maria | 2 | 1 |
+| Maria | 2 | 2 |
 
 ---
 
@@ -43,9 +43,9 @@
 
 | Metric | Value |
 |---|---:|
-| Total story points committed | 14 |
-| Total story points completed | 12 |
-| Completion % | 85% |
+| Total story points committed | 20 |
+| Total story points completed | 20 |
+| Completion % | 100% |
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## Blockers & Scope Changes
 
-- **Major blockers:** None
+- **Major blockers:**  Android build and emulator configuration issues, including a missing NDK version and incomplete Firebase Android configuration. These issues were resolved.
 - **Scope changes:** None
 - **Why work spilled over:** None
 
